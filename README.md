@@ -13,6 +13,6 @@ setp2: add this code to your layout file
         android:text="@string/fa_address_book" />
 ```
 visit this url for more than 2000 icon name:
-https://fontawesome.com
+https://fontawesome.com/icons
 
- ![example](https://github.com/vnool/android-font-icon/raw/master/icon-show.png)
+ ![example](https://raw.githubusercontent.com/vnool/android-font-icon/master/icon-show.png)
