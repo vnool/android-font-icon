@@ -12,3 +12,4 @@ add this code to your layout file
         android:layout_height="wrap_content"
         android:text="@string/fa_address_book" />
 ```
+ ![example](https://github.com/vnool/android-font-icon/raw/master/icon-show.png)
